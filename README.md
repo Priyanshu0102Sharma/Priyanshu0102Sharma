@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu0102sharma&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu0102sharma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu0102sharma" alt="priyanshu0102sharma" /></a> </p>
 
 - 🔭 I’m currently working on **NewsApp**
 
