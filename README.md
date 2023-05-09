@@ -1,5 +1,4 @@
-# Hello, I'm [Priaynshu Sharma] 👋
-<img width="500" src="https://i.pinimg.com/originals/d1/0c/3d/d10c3d213be6893235d97ae768db8c07.gif" />
+# Hello, I'm [Your Name] 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername.svg?style=social)](https://twitter.com/yourusername)
